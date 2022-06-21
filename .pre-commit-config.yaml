@@ -1,0 +1,45 @@
+# See https://pre-commit.com/ for usage and config
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.1.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-added-large-files
+
+  - repo: https://github.com/asottile/seed-isort-config
+    rev: v2.2.0
+    hooks:
+      - id: seed-isort-config
+
+  - repo: local
+    hooks:
+      - id: isort
+        name: isort
+        stages: [commit]
+        language: python
+        entry: poetry run isort
+        types: [python]
+
+      - id: black
+        name: black
+        stages: [commit]
+        language: python
+        entry: poetry run black
+        types: [python]
+
+      - id: flake8
+        name: flake8
+        stages: [commit]
+        language: python
+        entry: poetry run flake8
+        types: [python]
+
+      - id: mypy
+        name: mypy
+        stages: [commit]
+        language: python
+        entry: poetry run mypy
+        types: [python]
+        exclude: (tasks|_test)\.py$
+        require_serial: true

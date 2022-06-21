@@ -1,0 +1,11 @@
+[flake8]
+# E203 whitespace before ':'
+# W503 line break before binary operator
+ignore = E203,W503,E501
+max-line-length = 88
+exclude = .git,.github,.mypy_cache,.pytest_cache,__pycache__
+select = B,C,E,F,W,T4
+
+per-file-ignores =
+    # E501: Line too long
+    tests/line_server/redis/client_test:E501

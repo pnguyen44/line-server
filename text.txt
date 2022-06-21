@@ -1,0 +1,92 @@
+Covid is making flu and other common viruses act in unfamiliar ways Doctors are rethinking routines, including keeping preventive shots on hand into the spring and even summer.
+
+June 14, 2022
+By Frances Stead Sellers, Washington Post
+
+At one point last month, children were admitted to Yale New Haven Children’s Hospital with a startling range of seven respiratory viruses. They had adenovirus and rhinovirus, respiratory syncytial virus and human metapneumovirus, influenza and parainfluenza, as well as the coronavirus – which many specialists say is to blame for the unusual surges.
+
+“That’s not typical for any time of year and certainly not typical in May and June,” said Thomas Murray, an infection-control expert and associate professor of pediatrics at Yale. Some children admitted to the hospital were co-infected with two viruses and a few with three, he said.
+
+More than two years into the coronavirus pandemic, familiar viruses are acting in unfamiliar ways. Respiratory syncytial virus, known as RSV, typically limits its suffocating assaults to the winter months.
+
+Rhinovirus, cause of the common cold, rarely sends people to the hospital.
+
+And the flu, which seemed to be making a comeback in December after being a no-show the year before, disappeared again in January once the omicron variant of the coronavirus took hold. Now flu is back, but without one common lineage known as Yamagata, which hasn’t been spotted since early 2020. It could have gone extinct or may be lying in wait to attack our unsuspecting immune systems, researchers said.
+
+The upheaval is being felt in hospitals and labs. Doctors are rethinking routines, including keeping preventive shots on hand into the spring and even summer. Researchers have a rare opportunity to figure out whether behavioral changes like stay-at-home orders, masking and social distancing are responsible for the viral shifts, and what evolutionary advantage SARS CoV-2 may be exercising over its microscopic rivals.
+
+“It’s a massive natural experiment,” said Michael Mina, an epidemiologist and chief science officer at the digital health platform eMed. Mina said the shift in seasonality is explained largely by our lack of recent exposure to common viruses, making us vulnerable to their return.
+
+In hospitals across the country, physicians are adjusting protocols that for decades reflected a predictable cycle of illnesses that would come and go when schools closed or the weather changed.
+
+“You would see a child with a febrile illness, and think, ‘What time of the year is it?’ ” said Peter Hotez, a molecular virologist and dean for the National School of Tropical Medicine at Baylor College of Medicine in Houston.
+
+For years, Theresa Barton, head of pediatric infectious diseases at University Health in San Antonio, has routinely championed the flu vaccine each fall and relaxed her advocacy by March and April, when the flu fizzled out. The new shift in seasonality, with flu cases rising last summer and then again this spring, made her rethink.
+
+“You are like, ‘Oh man!’ in clinics. ‘Let’s get your flu shot,’ ” Barton said.
+
+She and other infectious-disease specialists are also revisiting their response to RSV, a common virus that hospitalizes about 60,000 children younger than 5 each year, according to the Centers for Disease Control and Prevention. It can create deadly lung infections in preemies and other high-risk infants. The typical treatment for them is monthly shots of a monoclonal antibody, palivizumab, from around November through February. But last summer, RSV suddenly surged and this year it is causing trouble in May and June. Infectious-disease experts are carefully tracking cases so that they are prepared to reactivate the pricey protocol.
+
+“We monitor the number of cases so that if it exceeds a number, we are ready,” Murray said. The Yale hospital, which typically holds meetings to prepare for upswings in fall through spring, is preparing pandemic-fatigued staffers for out-of-season surges.
+
+Even common colds seem a little more virulent and tenacious, according to Richard Martinello, a specialist in respiratory viruses at Yale School of Medicine.
+
+“When people are getting colds, they do seem to be a little worse,” he said, emphasizing that so far the evidence is largely anecdotal.
+
+The changes – and how and when they may revert to normal – reflect shifts in our own behavior during the pandemic as well as the interplay between SARS CoV-2 and other viruses, known as viral interference.
+
+We evolved alongside pathogens, and our regular contacts with them usually allow our immune systems to reup the response without making us very sick.
+
+The system has “enough memory to make it more like a good hearty booster than a bad infection,” Mina said.
+
+The moment you stop seeing a virus on this regular cadence, as happened during the pandemic, that natural balance is upset, Mina said. The extraordinary measures we took to limit exposure to the coronavirus – necessary steps to contain a deadly new foe – also limited our exposure to other viruses. If you do get exposed to a virus again once too much time has passed, you may not be able to protect yourself as well, leading to out-of-season surges across the population and surprisingly virulent infections for individuals.
+
+That, Mina and others say, is what happened once people doffed their masks and started gathering indoors. Viruses began circulating out of season because population immunity was low even if other conditions for them were not optimal.
+
+“All of these decisions have consequences,” Murray said. “You do the best you can with the information you have.”
+
+The same process of immune memory is already well-documented by other phenomena, Mina said, like 35- and 40-year-olds getting shingles, a reactivation of the chickenpox virus that typically affects older adults or people with weakened immune systems.
+
+Before the advent of vaccines against chickenpox, people were typically infected as children and then had a series of natural boosting events throughout their lives, rebooting their immunity as they made contact with infected friends and then their own children and their children’s friends.
+
+Now that those children are protected, they are not providing their parents with those natural boosts, making those adults vulnerable to the virus once again in the form of shingles.
+
+That phenomenon will be short-lived, as younger people who are protected by the chickenpox vaccine age and won’t be at risk of getting shingles.
+
+While vaccines disrupt the viral landscape by restricting the spread of infections, during the pandemic an entirely new virus – SARS Cov-2 – is doing so by interacting with its more common rivals.
+
+It’s not yet clear whether the drop in flu cases in January, for example, was caused entirely by people retreating from one another again as omicron spread or whether the coronavirus acted to push aside its more common rival through some other mechanism.
+
+“It’s a wonderful question, whether omicron pushed it out,” said Xiaoyan Song, chief infection control officer at Children’s National Hospital in D.C. Even more mysterious is the role covid played in knocking Yamagata out of play. When the flu did return this spring, that lineage was nowhere to be found.
+
+Ellen Foxman, an immunobiologist at the Yale School of Medicine, has spent years exploring how viruses interact and which genetic and environmental factors mean the same virus may cause a cold in one person and make another very sick.
+
+It’s a high-tech enterprise, using cells from the nose and lung to grow human airway tissue in the lab before infecting it with viruses, along with environmental contaminants like cigarette smoke.
+
+Studying the lining of the nasal passages has given insights into what’s known as innate immunity. Once those cells detect a virus, they turn on antiviral defenses, blocking other viruses. That process may help explain why the much-anticipated twindemic of the coronavirus and other viruses, likely inhibited by remote work and masking in the winter of 2020 to 2021, still did not occur this past winter, despite sporadic co-infections.
+
+The cohort of babies born over the past two years will yield a lot of information. Normally a child younger than 5 has on average a virus in his or her nose 26 out of 50 weeks of the year. Serious RSV and rhinovirus infections in those early years are associated with the development of asthma later in life.
+
+“Those kids did not have infection at a crucial time of lung development,” Foxman said, making them key to understanding the relationship between the viral infection and asthma.
+
+Still, it’s not clear what the future holds, as covid settles in among us.
+
+“It’s going to take time and even years to see what the new balance is going to look like,” Martinello said.
+
+Mina anticipates that the coronavirus will, like other respiratory viruses, fall into a pattern of seasonal circulation once population immunity increases, decreasing what is known as the “force of infection.”
+
+“When you have a lot of people who don’t have immunity, the impact of the season is less. It’s like free rein,” Mina said. The virus “can overcome seasonal barriers.”
+
+All those shifts will be affected by other environmental factors, Barton says, as climate change alters seasonal weather patterns.
+
+Despite those ongoing uncertainties, for many researchers the upheaval caused by the pandemic has reinforced known strategies for preventing infection.
+
+Scott Hensley, a microbiologist at the University of Pennsylvania’s Perelman School of Medicine, is not convinced that the Yamagata flu is gone forever. It may still be circulating, undetected, at very low levels, he said, ready to pop back on the scene. Still, there’s a tried-and-true method of protecting ourselves – through vaccination.
+
+“Even in years when vaccines are mismatched, there is some level of protection,” Hensley said, “preventing hospitalizations and deaths.”
+
+For Foxman, the lab scientist, the pandemic’s silver lining has been the way it will advance science.
+
+Even as she continues to invest in high-tech experiments in her lab, Foxman says the biggest lesson the pandemic has taught her about stopping the spread of viral infections comes from simple shifts in behavior, like masking, which she thinks should be continued in strategic circumstances.
+
+“We need to carry some of the lessons we learned forward,” Foxman said.

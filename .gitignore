@@ -1,0 +1,9 @@
+.env
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+line_server/__pycache__/
+dump.rdb
+*.pyc
+.cache
+.coverage
