@@ -35,7 +35,7 @@ cp .env.example .env
 | `REDIS_PORT` | `6379`                 |                                    |
 | `PORT`       | `8000`                 | Port on which the service listens. |
 
-## Development
+## Development And Testing
 
 This service uses [pyinvoke](http://docs.pyinvoke.org/en/1.2/index.html) to run scripts more easily. For a full list of invoke commands run `invoke --list`.
 
@@ -64,9 +64,12 @@ poetry shell
 
 ### Run tests
 
-Tests run outside of docker. Please make sure you [install dependencies](#install-dependencies) first. The below invoke task runs a redis container needed for testing and run tests.
 
 ```
+# Build a line-server-test image
+invoke devenv-test
+
+# Run tests inside docker
 invoke test
 ```
 

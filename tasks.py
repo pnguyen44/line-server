@@ -56,17 +56,6 @@ def stop(c):
 
 
 @task
-def test(c):
-    """
-    Run tests
-    """
-    c.run("docker-compose up -d")
-    c.run(
-        "REDIS_HOST=localhost poetry run pytest --cov=line_server --cov-report term . -vvv -s"
-    )
-
-
-@task
 def lint(c):
     """
     Run all pre-commit checks
@@ -74,4 +63,24 @@ def lint(c):
     c.run(
         "poetry run pre-commit run --all-files",
         warn=True,
+    )
+
+
+@task
+def devenv_test(c):
+    """
+    Build a line-server-test image
+    """
+
+    c.run("docker build -f Dockerfile.test -t line-server-test .")
+
+
+@task
+def test(c):
+    """
+    Run tests inside docker
+    """
+
+    c.run(
+        "docker run --rm --mount type=bind,src=${PWD},dst=/app --network=data line-server-test python -m pytest --cov=line_server --cov-report term . -vvv -s"
     )
